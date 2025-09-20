@@ -156,7 +156,7 @@ This project is released under the MIT License. See LICENSE file for details.
 
 ## Acknowledgments
 
-We thank the Kaggle "Drawing with LLMs" competition organizers for providing the motivation and dataset that inspired this work. We acknowledge the computational resources provided by our institution and valuable feedback from the computer graphics research community.
+We thank the Kaggle "Drawing with LLMs" competition organizers for providing the motivation that inspired this work. We acknowledge the computational resources provided by our institution and valuable feedback from the computer graphics research community.
 
 ---
 
